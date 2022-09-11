@@ -1,0 +1,365 @@
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.exe
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.deps.json
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.runtimeconfig.json
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.runtimeconfig.dev.json
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.pdb
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfoInputs.cache
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfo.cs
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\staticwebassets\BackEnd.StaticWebAssets.Manifest.cache
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\staticwebassets\BackEnd.StaticWebAssets.xml
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\scopedcss\bundle\BackEnd.styles.css
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.pdb
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.genruntimeconfig.cache
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csproj.CopyComplete
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.StaticWebAssets.xml
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.exe
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.deps.json
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.runtimeconfig.json
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.runtimeconfig.dev.json
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.pdb
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csproj.AssemblyReference.cache
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfoInputs.cache
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfo.cs
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\staticwebassets\BackEnd.StaticWebAssets.Manifest.cache
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csproj.CopyComplete
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.dll
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.pdb
+C:\Users\diegj\OneDrive\Escritorio\Diego\Universidad\Decimo semestre\JRCFerreteria\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.genruntimeconfig.cache
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Rotativa.AspNetCore.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.Views.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\WillYer\Desktop\ProyectoInventario\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csprojAssemblyReference.cache
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\appsettings.json
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.exe
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.deps.json
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.runtimeconfig.json
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.runtimeconfig.dev.json
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.pdb
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.Views.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\itextsharp.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\Rotativa.AspNetCore.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\2022\BackEnd\BackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfoInputs.cache
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfo.cs
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csproj.CoreCompileInputs.cache
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\staticwebassets\BackEnd.StaticWebAssets.Manifest.cache
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\staticwebassets\BackEnd.StaticWebAssets.xml
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\scopedcss\bundle\BackEnd.styles.css
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.RazorTargetAssemblyInfo.cache
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csproj.CopyComplete
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.dll
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.pdb
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.genruntimeconfig.cache
+G:\2022\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csproj.AssemblyReference.cache
